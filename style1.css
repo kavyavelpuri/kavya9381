@@ -1,0 +1,13 @@
+h1{
+    color:aqua;
+}
+.mycontainer{
+    background-color:skyblue;
+}
+table,th,td{
+    border:2px solid black;
+}
+th,td{
+    padding:10px;
+    width:400px;
+}
